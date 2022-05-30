@@ -21,7 +21,7 @@ This project collects data about Youtube Trending Video over the past two years,
 
 ## Portal
 
-- Download Source Code: https://github.com/guomaimang/YouBear
+- [See Project Document](https://guomaimang.github.io/note/ds/da/Project/YouBear/main.html)
 - Demo Data: [Download on Kaggle](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset)
 - How to Run Quickly: [Quick Start](https://guomaimang.github.io/note/ds/da/Project/YouBear/quick-start)
 - Check [Jupyter NoteBook HTML](https://guomaimang.github.io/static-html/YouBear-ga.html)
